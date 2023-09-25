@@ -1,0 +1,21 @@
+.nav_header {
+  display: flex;
+  align-items: center;
+}
+
+.nav_header_div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav_header_left {
+  display: flex;
+  align-items: center;
+}
+
+.nav_header_right {
+  color: #ee4d2d;
+  font-size: 0.875rem;
+  margin-right: 15px;
+  cursor: pointer;
+}

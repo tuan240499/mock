@@ -1,0 +1,44 @@
+#error {
+  display: flex;
+  flex-direction: column;
+  height: 70vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-error {
+  position: relative;
+  display: inline-block;
+  line-height: 0;
+  overflow: hidden;
+}
+
+.img-error img {
+  width: var(--image-width);
+  max-width: 100%;
+  height: var(--image-height, auto);
+}
+
+.content-error {
+  color: #1d1f22;
+  text-align: center;
+  font-size: 22px;
+}
+
+.content-error div {
+  font-size: 12px;
+}
+
+.button-error {
+  margin-top: 3rem;
+}
+
+.button-error button {
+  border: none;
+  padding: 16px 32px;
+  background: #5ece7b;
+  font-size: 16px;
+  font-weight: 500;
+  color: #ffffff;
+  cursor: pointer;
+}

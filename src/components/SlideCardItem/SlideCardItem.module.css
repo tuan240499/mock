@@ -1,0 +1,15 @@
+.container {
+  padding-left: 7.64vw;
+  padding-right: 7.64vw;
+  margin-top: 40px;
+  margin-left: -16px;
+  margin-right: -16px;
+}
+.card_wrap {
+  padding: 0 16px;
+}
+@media only screen and (max-width: 576px) {
+  .container {
+    margin-left: -10px;
+  }
+}

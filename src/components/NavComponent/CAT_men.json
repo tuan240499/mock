@@ -1,0 +1,138 @@
+[
+  [
+    {
+      "name": "ÁO",
+      "path": "men/ao"
+    },
+    {
+      "name": "Áo phông",
+      "path": "men/ao-phong-khong-co"
+    },
+    {
+      "name": "Áo polo",
+      "path": "men/ao-polo"
+    },
+    {
+      "name": "Áo sơ mi",
+      "path": "men/ao-so-mi"
+    },
+    {
+      "name": "Áo ba lỗ",
+      "path": "men/ao-ba-lo"
+    },
+    {
+      "name": "Áo len",
+      "path": "men/ao-len"
+    },
+    {
+      "name": "Áo nỉ co mũ",
+      "path": "men/ao-ni-co-mu"
+    },
+    {
+      "name": "Áo dài tay",
+      "path": "men/ao-dai-tay"
+    }
+  ],
+  [
+    {
+      "name": "QUẦN",
+      "path": "men/quan"
+    },
+    {
+      "name": "Quần shorts",
+      "path": "men/quan-shorts"
+    },
+    {
+      "name": "Quần jeans",
+      "path": "men/quan-jeans"
+    },
+    {
+      "name": "Quần nỉ",
+      "path": "men/quan-ni"
+    },
+    {
+      "name": "Quần khaki",
+      "path": "men/quan-shorts"
+    },
+    {
+      "name": "Quần vải",
+      "path": "men/quan-vai"
+    }
+  ],
+  [
+    {
+      "name": "ĐỒ MẶC NGOÀI",
+      "path": "men/ao-khoac"
+    },
+    {
+      "name": "Chống nắng",
+      "path": "men/ao-chong-nang"
+    },
+    {
+      "name": "Áo khoác ngắn",
+      "path": "men/ao-khoac-ngan"
+    },
+    {
+      "name": "Áo khoác gió",
+      "path": "men/ao-khoac-gio"
+    },
+    {
+      "name": "Áo khoác chân bông",
+      "path": "men/ao-khoac-chan-bong"
+    },
+    {
+      "name": "Áo khoác lông vũ",
+      "path": "men/ao-khoac-long-vu"
+    }
+  ],
+  [
+    {
+      "name": "ĐỒ MẶC NHÀ",
+      "path": "men/do-mac-nha"
+    },
+    {
+      "name": "Bộ mặc nhà",
+      "path": "men/bo-mac-nha"
+    },
+    {
+      "name": "Quần mặc nhà",
+      "path": "men/quan-mac-nha"
+    },
+    {
+      "name": "Áo mặc nhà",
+      "path": "/men/ao-mac-nha"
+    }
+  ],
+  [
+    {
+      "name": "ĐỒ MẶC TRONG",
+      "path": "men/do-mac-trong"
+    },
+    {
+      "name": "Quần lót nam",
+      "path": "men/quan-lot"
+    },
+    {
+      "name": "Áo mặc trong",
+      "path": "men/ao-mac-trong"
+    },
+    {
+      "name": "Giữ nhiệt",
+      "path": "/men/ao-giu-nhiet"
+    }
+  ],
+  [
+    {
+      "name": "PHỤ KIỆN",
+      "path": "men/phu-kien"
+    },
+    {
+      "name": "Phụ kiện",
+      "path": "men/tat-vo"
+    },
+    {
+      "name": "Đồ dùng cá nhân",
+      "path": "men/do-dung-ca-nhan"
+    }
+  ]
+]

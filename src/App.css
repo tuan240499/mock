@@ -1,0 +1,91 @@
+.slick-vertical .slick-slide {
+  border: none !important;
+}
+.thumbs {
+  display: flex;
+  flex-direction: column;
+}
+.carousel-root {
+  display: flex;
+}
+
+.carousel-root > div:first-child {
+  flex: 80;
+}
+.carousel-root > div:first-child ~ div {
+  flex: 20;
+}
+.thumbs {
+  transform: none !important;
+}
+.carousel .thumbs-wrapper {
+  margin: 0 20px !important;
+}
+.control-arrow {
+  display: none;
+}
+.slick-next {
+  right: 10px !important;
+}
+.slick-dots {
+  bottom: 15px !important;
+}
+.slick-dots li button:before {
+  font-size: 13px !important;
+}
+.Toastify__toast-container {
+  max-width: 100% !important;
+  width: 420px !important;
+  font-size: 16px !important;
+  font-weight: 700 !important;
+}
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+.react-multiple-carousel__arrow {
+  z-index: 3 !important;
+  top: 35%;
+  min-width: 35px !important;
+  min-height: 35px !important;
+}
+.react-multiple-carousel__arrow--left {
+  left: 3% !important;
+}
+.react-multiple-carousel__arrow--right {
+  right: 3% !important;
+}
+.react-multi-carousel-list {
+  margin-right: -18px;
+}
+
+.btn-slide-custom .react-multiple-carousel__arrow {
+  z-index: 3 !important;
+  top: 34%;
+  min-width: 35px !important;
+  min-height: 35px !important;
+}
+.btn-slide-custom .react-multiple-carousel__arrow--left {
+  left: 1% !important;
+}
+.btn-slide-custom .react-multiple-carousel__arrow--right {
+  right: 1% !important;
+}
+.btn-slide-custom .react-multi-carousel-list {
+  margin-right: -18px;
+}
+
+.pagination {
+  justify-content: center;
+}

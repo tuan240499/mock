@@ -1,0 +1,22 @@
+.box {
+  background-color: #63b1bc;
+  border-radius: 2px;
+  line-height: 28px;
+  color: #fff;
+  min-width: 36px;
+  width: 36px;
+}
+.text {
+  width: 13px;
+  color: #63b1bc;
+  font-size: 30px;
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
+.container {
+  padding-left: 7.64vw;
+  padding-right: 7.64vw;
+  padding-top: 20px;
+}

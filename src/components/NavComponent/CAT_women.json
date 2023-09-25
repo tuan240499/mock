@@ -1,0 +1,159 @@
+[
+  [
+    {
+      "name": "ÁO",
+      "path": "women/ao"
+    },
+    {
+      "name": "Áo phông",
+      "path": "women/ao-phong-khong-co"
+    },
+    {
+      "name": "Áo polo",
+      "path": "women/ao-polo"
+    },
+    {
+      "name": "Áo ba lỗ",
+      "path": "women/ao-ba-lo"
+    },
+    {
+      "name": "Áo kiểu",
+      "path": "women/ao-kieu"
+    },
+    {
+      "name": "Áo sơ mi",
+      "path": "women/ao-so-mi"
+    },
+    {
+      "name": "Áo phông dài tay",
+      "path": "women/ao-phong-dai-tay"
+    },
+    {
+      "name": "Áo len",
+      "path": "women/ao-len"
+    },
+    {
+      "name": "Áo nỉ",
+      "path": "women/ao-ni"
+    },
+    {
+      "name": "Áo nỉ có mũ",
+      "path": "women/ao-ni-co-mu"
+    }
+  ],
+  [
+    {
+      "name": "QUẦN",
+      "path": "women/quan"
+    },
+    {
+      "name": "Quần shorts",
+      "path": "women/quan-shorts"
+    },
+    {
+      "name": "Quần jeans",
+      "path": "women/quan-jeans"
+    },
+    {
+      "name": "Quần vải",
+      "path": "women/quan-vai"
+    },
+    {
+      "name": "Quần nỉ",
+      "path": "women/quan-ni"
+    },
+    {
+      "name": "Quần khaki",
+      "path": "women/quan-khaki"
+    },
+    {
+      "name": "Váy",
+      "path": "women/vay"
+    },
+    {
+      "name": "Váy liền thân",
+      "path": "women/vay-lien-than"
+    },
+    {
+      "name": "Chân váy",
+      "path": "women/chan-vay"
+    }
+  ],
+
+  [
+    {
+      "name": "ĐỒ MẶC NGOÀI",
+      "path": "women/do-mac-ngoai"
+    },
+    {
+      "name": "Chống nắng",
+      "path": "women/chong-nang"
+    },
+    {
+      "name": "Áo khoác ngắn",
+      "path": "women/ao-khoac-ngan"
+    },
+    {
+      "name": "Áo khoác gió",
+      "path": "women/ao-khoac-gio"
+    },
+    {
+      "name": "Áo khoác chần bông",
+      "path": "women/ao-khoac-chan-bong"
+    },
+    {
+      "name": "Áo khoác lông vũ",
+      "path": "women/ao-khoac-long-vu"
+    }
+  ],
+  [
+    {
+      "name": "ĐỒ MẶC NHÀ",
+      "path": "women/do-mac-nha"
+    },
+    {
+      "name": "Bộ mặc nhà",
+      "path": "women/bo-mac-nha"
+    },
+    {
+      "name": "Quần mặc nhà",
+      "path": "women/quan-mac-nha"
+    },
+    {
+      "name": "Áo mặc nhà",
+      "path": "women/ao-mac-nha"
+    }
+  ],
+  [
+    {
+      "name": "ĐỒ MẶC TRONG",
+      "path": "women/do-mac-trong"
+    },
+    {
+      "name": "Đồ lót",
+      "path": "women/do-lot"
+    },
+    {
+      "name": "Giữ nhiệt",
+      "path": "women/giu-nhiet"
+    },
+    {
+      "name": "Áo mặc trong",
+      "path": "women/ao-mac-trong"
+    }
+  ],
+  [
+    {
+      "name": "PHỤ KIỆN",
+      "path": "women/phu-kien"
+    },
+    {
+      "name": "Phụ kiện",
+      "path": "women/phu-kien"
+    },
+    {
+      "name": "Đồ dùng cá nhân",
+      "path": "women/do-dung-ca-nhan"
+    }
+  ]
+]

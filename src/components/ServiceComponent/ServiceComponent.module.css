@@ -1,0 +1,41 @@
+.container {
+  padding-left: 7.64vw;
+  padding-right: 7.64vw;
+}
+.service {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Montserrat", serif;
+  margin: 20px 0;
+  font-size: 16px;
+}
+.item {
+  display: flex;
+  align-items: center;
+}
+.icon {
+  width: 44px;
+  margin-right: 5px;
+}
+.icon img {
+  width: 100%;
+}
+.content {
+  color: rgba(51, 63, 72, 0.5);
+  font-size: 14px;
+  font-weight: 600;
+}
+.title {
+  margin-bottom: 0;
+  font-weight: 700;
+}
+
+@media only screen and (max-width: 576px) {
+  .service{
+    flex-direction: column;
+    font-size: 15px;
+  }
+  .item{
+    padding-bottom: 10px;
+  }
+}

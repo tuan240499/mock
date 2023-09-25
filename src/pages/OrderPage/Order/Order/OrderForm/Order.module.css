@@ -1,0 +1,35 @@
+.orderDetails {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 5px;
+  border: 1px solid #edeeee;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.label {
+  font-weight: 400;
+}
+.label1 {
+  font-weight: 500;
+}
+.value {
+  color: #333;
+}
+
+
+.button {
+  background-color: red;
+  color: white;
+  width: 100%;
+  border: none;
+ height:  40px;
+ font-weight: 500;
+}
+
+
+

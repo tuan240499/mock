@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "8ts23s008",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/t/8ts23s008-sg179-1.webp",
+      "https://canifa.com/img/1000/1500/resize/8/t/8ts23s008-se297-1.webp",
+      "https://canifa.com/img/1000/1500/resize/8/t/8ts23s008-sk010-1-m.webp",
+      "https://canifa.com/img/1000/1500/resize/8/t/8ts23s008-sw001-1-thumb.webp"
+    ],
+    "product_name": "Áo phông nam có hình xăm",
+    "price": 79000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 69000
+    },
+    "page": 1,
+    "hotDeals": true,
+    "sizes": ["L", "XL", "XXL"],
+    "category": "ao",
+    "category2": "ao-phong",
+    "colors": ["Teal", "Pink", "Black", "Silver"]
+  },
+  {
+    "id": "8ts23s016",
+    "imageUrl": [
+      "https://canifa.com/img/1000/1500/resize/8/t/8ts23s016-sk010-1.webp",
+      "https://canifa.com/img/1000/1500/resize/8/t/8ts23s016-sp073-1.webp",
+      "https://canifa.com/img/1000/1500/resize/8/t/8ts23s016-sw001-1.webp"
+    ],
+    "product_name": "Áo phông nam cotton có hình inn",
+    "price": 349000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 244300
+    },
+    "page": 1,
+    "hotDeals": true,
+    "sizes": ["S", "XL", "XXL"],
+    "category": "ao",
+    "category2": "ao-phong",
+    "colors": ["black", "Purple", "Silver"]
+  },
+  {
+    "id": "8ts23s015",
+    "imageUrl": [
+      "https://canifa.com/img/1000/1500/resize/8/t/8ts23s015-sb148-1-.webp",
+      "https://canifa.com/img/486/733/resize/8/t/8ts23s015-sw001-2-thumb.webp"
+    ],
+    "product_name": "Áo phông nam cotton cổ tròn",
+    "price": 349000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 244300
+    },
+    "page": 1,
+    "hotDeals": true,
+    "sizes": ["S", "M", "XXL"],
+    "category": "ao",
+    "category2": "ao-phong",
+    "colors": ["Blue", "Silver"]
+  },
+  {
+    "id": "8ts23s017",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/t/8ts23s017-sb060-1-thumb.webp",
+      "https://canifa.com/img/1000/1500/resize/8/t/8ts23s017-sk010-1-thumb.webp",
+      "https://canifa.com/img/1000/1500/resize/8/t/8ts23s017-sw001-1.webp"
+    ],
+    "product_name": "Áo phông nam cotton nữ tính",
+    "price": 349000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 244300
+    },
+    "page": 1,
+    "hotDeals": true,
+    "sizes": ["S", "M", "L"],
+    "category": "ao",
+    "category2": "ao-phong",
+    "colors": ["Navy", "Black", "Silver"]
+  },
+  {
+    "id": "8ts23s004",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/t/8ts23s004-sg428-2-thumb.webp",
+      "https://canifa.com/img/1000/1500/resize/8/t/8ts23s004-sn265-1-thumb.webp",
+      "https://canifa.com/img/1000/1500/resize/8/t/8ts23s004-sa014-l-1.webp"
+    ],
+    "product_name": "Áo phông nam cotton cổ tròn",
+    "price": 169000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 169000
+    },
+    "page": 1,
+    "hotDeals": true,
+    "sizes": ["M", "XL", "XXL"],
+    "category": "ao",
+    "category2": "ao-phong",
+    "colors": ["Green", "Pink", "Grey"]
+  },
+  {
+    "id": "8tp23a004",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/t/8tp23a004-sg526-2-thumb.webp",
+      "https://canifa.com/img/1000/1500/resize/8/t/8tp23a004-sa589-1.webp",
+      "https://canifa.com/img/1000/1500/resize/8/t/8tp23a004-so029-1.webp",
+      "https://canifa.com/img/1000/1500/resize/8/t/8tp23a004-sb194-1.webp"
+    ],
+    "product_name": "Áo polo nam cafe cổ đức cộc tay",
+    "price": 499000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 349300
+    },
+    "page": 1,
+    "hotDeals": true,
+    "sizes": ["S", "L", "XXL"],
+    "category": "ao",
+    "category2": "ao-polo",
+    "colors": ["Green", "Pink", "Orange", "Aqua"]
+  },
+  {
+    "id": "8tp23s008",
+    "imageUrl": [
+      "https://canifa.com/img/1000/1500/resize/8/t/8tp23s008-so093-1-thumb.webp",
+      "https://canifa.com/img/1000/1500/resize/8/t/8tp23s008-sg025-1.webp"
+    ],
+    "product_name": "Áo polo wicking active cổ đức",
+    "price": 599000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 299500
+    },
+    "page": 1,
+    "hotDeals": true,
+    "sizes": ["S", "M", "XL"],
+    "category": "ao",
+    "category2": "ao-polo",
+    "colors": ["Yellow", "Blue"]
+  },
+  {
+    "id": "8tp23s001",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/t/8tp23s001-sw011-2-thumb.webp"
+    ],
+    "product_name": "Áo polo nam dáng suông",
+    "price": 499000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 349300
+    },
+    "page": 1,
+    "hotDeals": true,
+    "sizes": ["M", "L", "XXL"],
+    "category": "ao",
+    "category2": "ao-polo",
+    "colors": ["Silver"]
+  },
+  {
+    "id": "8th23s002",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/t/8th23s002-se389-1-thumb.webp",
+      "https://canifa.com/img/1000/1500/resize/8/t/8th23s002-sl126-1.webp"
+    ],
+    "product_name": "Áo sơ mi cotton cổ tàu tay dài",
+    "price": 599000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 419300
+    },
+    "page": 2,
+    "hotDeals": true,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "ao",
+    "category2": "ao-so-mi",
+    "colors": ["Grey", "Black"]
+  },
+  {
+    "id": "8th23s005",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/t/8th23s005-fk093-1-thumb.webp"
+    ],
+    "product_name": "Áo sơ mi cộc tay cổ đức dáng",
+    "price": 699000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 489300
+    },
+    "page": 13,
+    "hotDeals": true,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "ao",
+    "category2": "ao-so-mi",
+    "colors": ["Grey"]
+  },
+  {
+    "id": "8th20c001",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/t/8th20c001-pb207-51_thumb1_.webp",
+      "https://canifa.com/img/1000/1500/resize/8/t/8th20c001-pb208-l.webp"
+    ],
+    "product_name": "Áo sơ mi nam ngắn tay",
+    "price": 399000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 99000
+    },
+    "page": 2,
+    "hotDeals": true,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "ao",
+    "category2": "ao-so-mi",
+    "colors": ["#333", "Blue"]
+  },
+  {
+    "id": "8ta23s002",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/t/8ta23s002-sg179-2-thumb.webp",
+      "https://canifa.com/img/1000/1500/resize/8/t/8ta23s002-sk010-1.webp"
+    ],
+    "product_name": "Áo sát nách nam drytech cổ tròn",
+    "price": 299000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 209300
+    },
+    "page": 2,
+    "hotDeals": true,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "ao",
+    "category2": "ao-ba-lo",
+    "colors": ["Navy", "Black"]
+  },
+  {
+    "id": "8ta23s003",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/t/8ta23s003-sk010-xl-1.webp"
+    ],
+    "product_name": "Áo ba lỗ nam active có in chữ",
+    "price": 299000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 299000
+    },
+    "page": 2,
+    "hotDeals": true,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "ao",
+    "category2": "ao-ba-lo",
+    "colors": ["Black"]
+  },
+  {
+    "id": "8ta23s001",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/t/8ta23s001-sg554-2-thumb.webp"
+    ],
+    "product_name": "Áo ba lỗ nam active cổ tròn dáng",
+    "price": 199000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 139300
+    },
+    "page": 2,
+    "hotDeals": true,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "ao",
+    "category2": "ao-ba-lo",
+    "colors": ["Yellow"]
+  },
+  {
+    "id": "8bs23s006",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/b/8bs23s006-se152-2-thumb.webp"
+    ],
+    "product_name": "Quần soóc nam có túi hai bên",
+    "price": 549000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 384300
+    },
+    "page": 2,
+    "hotDeals": true,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "quan",
+    "category2": "quan-shorts",
+    "colors": ["Brown"]
+  },
+  {
+    "id": "8bs23s004",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/b/8bs23s004-fe091-2-thumb.webp"
+    ],
+    "product_name": "Quần soóc nam cotton cạp chun",
+    "price": 399000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 399000
+    },
+    "page": 2,
+    "hotDeals": true,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "quan",
+    "category2": "quan-shorts",
+    "colors": ["Beige"]
+  },
+  {
+    "id": "8bs23s009",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/b/8bs23s009-sw003-2-thumb.webp"
+    ],
+    "product_name": "Quần soóc nam",
+    "price": 599000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 419300
+    },
+    "page": 2,
+    "hotDeals": true,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "quan",
+    "category2": "quan-shorts",
+    "colors": ["White"]
+  },
+  {
+    "id": "8bj23s005",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/b/8bj23s005-sj741-2-thumb.webp"
+    ],
+    "product_name": "Quần jeans nam có khóa dáng ôm",
+    "price": 799000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 799000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "quan",
+    "category2": "quan-jeans",
+    "colors": ["Black"]
+  },
+  {
+    "id": "8bj23s002",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/b/8bj23s002-sj810-2-thumb.webp"
+    ],
+    "product_name": "Quần jeans nam dáng ôm",
+    "price": 699000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 699000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "quan",
+    "category2": "quan-jeans",
+    "colors": ["Blue"]
+  },
+  {
+    "id": "8bj22w002",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/b/8bj22w002-sj746-2-thumb.webp"
+    ],
+    "product_name": "Quần jeans nam cotton dáng suông",
+    "price": 599000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 599000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "quan",
+    "category2": "quan-jeans",
+    "colors": ["Blue"]
+  },
+  {
+    "id": "8bp22c002",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/b/8bp22c002-sg025-2-thumb.webp"
+    ],
+    "product_name": "Quần nỉ nam cạp chun có hình in",
+    "price": 499000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 499000
+    },
+    "page": 2,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "quan",
+    "category2": "quan-ni",
+    "colors": ["Green"]
+  },
+  {
+    "id": "8bp22c005",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/b/8bp22c005-sb001-2-thumb.jpg"
+    ],
+    "product_name": "Quần nỉ nam cạp chun có hình in",
+    "price": 499000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 499000
+    },
+    "page": 2,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "quan",
+    "category2": "quan-ni",
+    "colors": ["Navy"]
+  },
+  {
+    "id": "8bp22w007",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/b/8bp22w007-sn244-2-thumb.webp"
+    ],
+    "product_name": "Quần nỉ nam",
+    "price": 499000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 499000
+    },
+    "page": 2,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "quan",
+    "category2": "quan-ni",
+    "colors": ["Brown"]
+  },
+  {
+    "id": "8bk23s003",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/b/8bk23s003-se384-2-thumb.webp"
+    ],
+    "product_name": "Quần khaki nam cotton dáng suông",
+    "price": 799000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 799000
+    },
+    "page": 3,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "quan",
+    "category2": "quan-khaki",
+    "colors": ["White"]
+  },
+  {
+    "id": "8bk23s002",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/b/8bk23s002-se384-2-thumb.webp"
+    ],
+    "product_name": "Quần khaki nam cotton dáng suông",
+    "price": 699000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 699000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "quan",
+    "category2": "quan-khaki",
+    "colors": ["White"]
+  },
+  {
+    "id": "8bk23a003",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/b/8bk23a003-sg228-2-thumb.webp"
+    ],
+    "product_name": "Quần khaki nam dáng ôm",
+    "price": 699000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 699000
+    },
+    "page": 3,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "quan",
+    "category2": "quan-khaki",
+    "colors": ["Teal"]
+  },
+  {
+    "id": "8ot22s002",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/o/8ot22s002-sb015-3-thumb.webp"
+    ],
+    "product_name": "Áo khoác chống nắng nam",
+    "price": 399000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 279300
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-ngoai",
+    "category2": "chong-nang",
+    "colors": ["Navy"]
+  },
+  {
+    "id": "8ot23s001",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/o/8ot23s001-sb001-3-thumb.webp"
+    ],
+    "product_name": "Áo khoác chống nắng nam",
+    "price": 449000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 449000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-ngoai",
+    "category2": "chong-nang",
+    "colors": ["Navy"]
+  },
+  {
+    "id": "8ax20a015",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/a/8ax20a015-sa489-0000-ghep-.webp"
+    ],
+    "product_name": "Combo khẩu trang người lớn",
+    "price": 69000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 29000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-ngoai",
+    "category2": "chong-nang",
+    "colors": ["Black"]
+  },
+  {
+    "id": "8ot22w018",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/o/8ot22w018-sn199-2-thumb.webp"
+    ],
+    "product_name": "Áo khoác da lộn nam cổ lông kéo khóa",
+    "price": 1199000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 1199000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-ngoai",
+    "category2": "ao-khoac-ngan",
+    "colors": ["Brown"]
+  },
+  {
+    "id": "8ot22w030",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/o/8ot22w030-sa718-2-thumb.webp"
+    ],
+    "product_name": "Áo blazer nam cổ ve lật túi hai bên",
+    "price": 899000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 899000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-ngoai",
+    "category2": "ao-khoac-ngan",
+    "colors": ["White"]
+  },
+  {
+    "id": "8ot22w035",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/o/8ot22w035-sn235-2-thumb.webp"
+    ],
+    "product_name": "Áo khoác nỉ nam có mũ kéo khóa",
+    "price": 499000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 499000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-ngoai",
+    "category2": "ao-khoac-ngan",
+    "colors": ["Pink"]
+  },
+  {
+    "id": "8ot22w005",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/o/8ot22w005-sa150-2-thumb.webp"
+    ],
+    "product_name": "Áo khoác gió nam có mũ",
+    "price": 399000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 399000
+    },
+    "page": 2,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-ngoai",
+    "category2": "ao-khoac-gio",
+    "colors": ["White"]
+  },
+  {
+    "id": "8ot22w005",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/o/8ot22w005-sk010-2-thumb.webp"
+    ],
+    "product_name": "Áo khoác gió nam có mũ",
+    "price": 399000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 399000
+    },
+    "page": 2,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-ngoai",
+    "category2": "ao-khoac-gio",
+    "colors": ["Black"]
+  },
+  {
+    "id": "8ot22w033",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/o/8ot22w033-sk010-2.webp"
+    ],
+    "product_name": "Áo khoác gió nam 2 lớp",
+    "price": 799000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 799000
+    },
+    "page": 2,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-ngoai",
+    "category2": "ao-khoac-gio",
+    "colors": ["Black"]
+  },
+  {
+    "id": "8ot22w024",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/o/8ot22w024-sl061-3-thumb.webp"
+    ],
+    "product_name": "Áo khoác nam chần bông dáng đẹp",
+    "price": 999000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 999000
+    },
+    "page": 3,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-ngoai",
+    "category2": "ao-khoac-chan-bong",
+    "colors": ["Teal"]
+  },
+  {
+    "id": "8ot22w025",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/o/8ot22w025-se152-1-thumb-a.webp"
+    ],
+    "product_name": "Áo khoác chần bông nam lót nỉ",
+    "price": 1199000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 1199000
+    },
+    "page": 3,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-ngoai",
+    "category2": "ao-khoac-chan-bong",
+    "colors": ["Beige"]
+  },
+  {
+    "id": "8ot21w013",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/o/8ot21w013-sb001-l-1.webp"
+    ],
+    "product_name": "Áo khoác bomber chần bông nam",
+    "price": 1199000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 499000
+    },
+    "page": 3,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-ngoai",
+    "category2": "ao-khoac-chan-bong",
+    "colors": ["Navy"]
+  },
+  {
+    "id": "8ls23s002",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/l/8ls23s002-sb422-1-thumb.webp"
+    ],
+    "product_name": "Bộ mặc nhà nam áo cổ tròn quần",
+    "price": 349000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 249000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-nha",
+    "category2": "bo-mac-nha",
+    "colors": ["Black"]
+  },
+  {
+    "id": "8ls23s006",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/l/8ls23s006-sa014-1-thumb.webp"
+    ],
+    "product_name": "Bộ mặc nhà nam cotton cộc tay",
+    "price": 499000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 240000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-nha",
+    "category2": "bo-mac-nha",
+    "colors": ["White"]
+  },
+  {
+    "id": "8ls23s004",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/l/8ls23s004-sb013-xl-1-ghep.webp"
+    ],
+    "product_name": "Bộ mặc nhà nam cotton áo cộc tay",
+    "price": 1199000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 499000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-nha",
+    "category2": "bo-mac-nha",
+    "colors": ["Teal"]
+  },
+  {
+    "id": "8lb23a001",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/l/8lb23a001-sa014-xl-1.webp"
+    ],
+    "product_name": "Quần mặc nhà nam cạp chun dáng",
+    "price": 199000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 199000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-nha",
+    "category2": "quan-mac-nha",
+    "colors": ["Grey"]
+  },
+  {
+    "id": "8lb23a002",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/l/8lb23a002-pb388-xl-1.webp"
+    ],
+    "product_name": "Quần mặc nhà nam cotton cạp chun",
+    "price": 199000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 139300
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-nha",
+    "category2": "quan-mac-nha",
+    "colors": ["Blue"]
+  },
+  {
+    "id": "8lb23a008",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/l/8lb23a008-sb015-2-thumb.webp"
+    ],
+    "product_name": "Quần soóc mặc nhà nam có túi",
+    "price": 149000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 149000
+    },
+    "page": 2,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-nha",
+    "category2": "quan-mac-nha",
+    "colors": ["Navy"]
+  },
+  {
+    "id": "8la23a002",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/l/8la23a002-sw157-2-thumb.webp"
+    ],
+    "product_name": "Combo 2 áo mặc nhà nam cotton",
+    "price": 199000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 199000
+    },
+    "page": 2,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-nha",
+    "category2": "ao-mac-nha",
+    "colors": ["Black"]
+  },
+  {
+    "id": "8la23a001",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/l/8la23a001-sw157-xl-1-ghepa.webp"
+    ],
+    "product_name": "Combo 2 áo ba lỗ mặc nhà nam",
+    "price": 199300,
+    "sale": {
+      "isSale": false,
+      "priceSale": 199300
+    },
+    "page": 2,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-nha",
+    "category2": "ao-mac-nha",
+    "colors": ["White"]
+  },
+  {
+    "id": "8lt22s001",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/l/8lt22s001-sw001-1.webp"
+    ],
+    "product_name": "Áo ba lỗ mặc nhà nam cotton trơn",
+    "price": 99000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 69300
+    },
+    "page": 2,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-nha",
+    "category2": "ao-mac-nha",
+    "colors": ["White"]
+  },
+  {
+    "id": "8us23a001",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/u/8us23a001-sl148-xl-1.webp"
+    ],
+    "product_name": "Combo 2 quần sịp đùi nam dáng đẹp",
+    "price": 179000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 179000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-trong",
+    "category2": "quan-lot-nam",
+    "colors": ["Aqua"]
+  },
+  {
+    "id": "8us23a002",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/u/8us23a002-sa752-xl-1.webp"
+    ],
+    "product_name": "Pack 2 quần sịp đùi nam",
+    "price": 219000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 219000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-trong",
+    "category2": "quan-lot-nam",
+    "colors": ["Grey"]
+  },
+  {
+    "id": "8us23a004",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/u/8us23a004-sl148-xl-1.webp"
+    ],
+    "product_name": "Combo 2 quần sịp tam giác nam",
+    "price": 179000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 179000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-trong",
+    "category2": "quan-lot-nam",
+    "colors": ["Aqua"]
+  },
+  {
+    "id": "8lt22s001",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/l/8lt22s001-sw001-1.webp"
+    ],
+    "product_name": "Áo ba lỗ mặc nhà nam cotton trơn",
+    "price": 99000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 69300
+    },
+    "page": 2,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-trong",
+    "category2": "ao-mac-trong",
+    "colors": ["White"]
+  },
+  {
+    "id": "8it22w001",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/i/8it22w001-sb628-1.webp"
+    ],
+    "product_name": "Áo body nam cổ tròn dáng ôm",
+    "price": 279000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 99000
+    },
+    "page": 2,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-trong",
+    "category2": "ao-mac-trong",
+    "colors": ["Black"]
+  },
+  {
+    "id": "8it22w002",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/i/8it22w002-sb628-1.webp"
+    ],
+    "product_name": "Áo body nam cổ 3 phân dáng ôm",
+    "price": 279000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 99000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-trong",
+    "category2": "ao-mac-trong",
+    "colors": ["Black"]
+  },
+  {
+    "id": "8it21w003",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/i/8it21w003-sb060-l-1.webp"
+    ],
+    "product_name": "Áo giữ nhiệt nam",
+    "price": 279000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 129000
+    },
+    "page": 2,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-trong",
+    "category2": "giu-nhiet",
+    "colors": ["Navy"]
+  },
+  {
+    "id": "8it21w002",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/i/8it21w002-sb060-l-1.webp"
+    ],
+    "product_name": "Áo giữ ấm nam",
+    "price": 279000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 129000
+    },
+    "page": 2,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "do-mac-trong",
+    "category2": "giu-nhiet",
+    "colors": ["Black"]
+  },
+  {
+    "id": "5ab22a005",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/5/a/5ab22a005-se377-0000-1.webp"
+    ],
+    "product_name": "Túi tote cotton 3 quai Canifa Z",
+    "price": 149000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 74500
+    },
+    "page": 2,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "phu-kien",
+    "category2": "phu-kien-item",
+    "colors": ["Pink"]
+  },
+  {
+    "id": "5ac22a001",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/5/a/5ac22a001-sk010-0000-1.webp"
+    ],
+    "product_name": "Khăn badana 50x50cm Canifa Z",
+    "price": 99000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 49500
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "phu-kien",
+    "category2": "phu-kien-item",
+    "colors": ["Black"]
+  },
+  {
+    "id": "5ax23a001",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/5/a/5ax23a001-sa422-0000-1-ghep.webp"
+    ],
+    "product_name": "Combo 2 khẩu trang unisex người",
+    "price": 79000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 79000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "phu-kien",
+    "category2": "phu-kien-item",
+    "colors": ["White"]
+  },
+  {
+    "id": "9ha23a006",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/9/h/9ha23a006-so233-0000-1.webp"
+    ],
+    "product_name": "Combo 2 khăn mặt 50x28cm",
+    "price": 79000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 79000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "phu-kien",
+    "category2": "do-dung-ca-nhan",
+    "colors": ["Orange"]
+  },
+  {
+    "id": "9ha23a009",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/9/h/9ha23a009-so235-0000-1_1.webp"
+    ],
+    "product_name": "Combo 2 khăn lau đầu 35x75 cm",
+    "price": 119000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 119000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "phu-kien",
+    "category2": "do-dung-ca-nhan",
+    "colors": ["Blue"]
+  },
+  {
+    "id": "9ha23a005",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/9/h/9ha23a005-sl125-0000-1.webp"
+    ],
+    "product_name": "Combo 2 khăn mặt cotton 50x30cm",
+    "price": 79000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 79000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "phu-kien",
+    "category2": "do-dung-ca-nhan",
+    "colors": ["Pink"]
+  },
+  {
+    "id": "8ts23w013",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/t/8ts23w013-se090-3-thumb.webp"
+    ],
+    "product_name": "Áo phông nam cotton basic dáng",
+    "price": 149000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 149000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "hang-moi",
+    "category2": "mac-tren",
+    "colors": ["Beige"]
+  },
+  {
+    "id": "8ts23w014",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/t/8ts23w014-sb346-2-thumb.webp"
+    ],
+    "product_name": "Áo phông nam cotton USA dáng",
+    "price": 299000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 299000
+    },
+    "page": 2,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "hang-moi",
+    "category2": "mac-tren",
+    "colors": ["Blue"]
+  },
+  {
+    "id": "5ts23s031",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/5/t/5ts23s031-sw001-1.webp"
+    ],
+    "product_name": "Áo phông unisex người lớn có hình",
+    "price": 229000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 114500
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "hang-moi",
+    "category2": "mac-tren",
+    "colors": ["White"]
+  },
+  {
+    "id": "8ax23a016",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/a/8ax23a016-sk337-0000-ghep-u.webp"
+    ],
+    "product_name": "Combo 3 đôi tất nam cổ lỡ họa tiết",
+    "price": 179000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 179000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "hang-moi",
+    "category2": "mac-duoi",
+    "colors": ["White"]
+  },
+  {
+    "id": "8us23a003",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/u/8us23a003-sa752-xl-1.webp"
+    ],
+    "product_name": "Pack 2 quần sịp tam giác nam",
+    "price": 219000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 219000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "hang-moi",
+    "category2": "mac-duoi",
+    "colors": ["Grey"]
+  },
+  {
+    "id": "8lb23a008",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/l/8lb23a008-sb015-2-thumb.webp"
+    ],
+    "product_name": "Quần soóc mặc nhà nam có túi",
+    "price": 149000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 149000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "hang-moi",
+    "category2": "mac-duoi",
+    "colors": ["Navy"]
+  },
+  {
+    "id": "8ts23s004",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/t/8ts23s004-sg428-2-thumb.webp"
+    ],
+    "product_name": "Áo phông nam cotton cổ tròn có",
+    "price": 169000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 118300
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "gia-tot",
+    "category2": "gia-tot-item",
+    "colors": ["Teal"]
+  },
+  {
+    "id": "8ls23s002",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/l/8ls23s002-sb422-1-thumb.webp"
+    ],
+    "product_name": "Pack 2 quần sịp tam giác nam",
+    "price": 349000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 249000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "gia-tot",
+    "category2": "gia-tot-item",
+    "colors": ["Navy"]
+  },
+  {
+    "id": "8bs23s005",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/b/8bs23s005-sk010-xl-1.webp"
+    ],
+    "product_name": "Quần soóc nam active cạp chun",
+    "price": 199000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 199000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "gia-tot",
+    "category2": "gia-tot-item",
+    "colors": ["Black"]
+  },
+  {
+    "id": "8ak22a002",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/a/8ak22a002-sa758-0000.webp"
+    ],
+    "product_name": "Tất nam",
+    "price": 59000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 59000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "gia-tot",
+    "category2": "dong-gia-tu-99k",
+    "colors": ["Grey"]
+  },
+  {
+    "id": "8it22w001",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/i/8it22w001-sb628-1.webp"
+    ],
+    "product_name": "Áo body nam cổ tròn dáng ôm",
+    "price": 279000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 99000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "gia-tot",
+    "category2": "dong-gia-tu-99k",
+    "colors": ["Black"]
+  },
+  {
+    "id": "8it22w002",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/i/8it22w002-sb628-1.webp"
+    ],
+    "product_name": "Áo body nam cổ 3 phân dáng ôm",
+    "price": 279000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 99000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "gia-tot",
+    "category2": "dong-gia-tu-99k",
+    "colors": ["Black"]
+  },
+  {
+    "id": "8ts23s020",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/t/8ts23s020-sk010-1-thumb.webp"
+    ],
+    "product_name": "Áo phông nam active anti UV quickd",
+    "price": 349000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 174500
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "craceful-active",
+    "category2": "craceful-active-item",
+    "colors": ["Black"]
+  },
+  {
+    "id": "8TA23S002",
+    "product_name": "Áo sát nách nam drytech cổ tròn dáng suông có hình in",
+    "price": 699000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 399000
+    },
+    "imageUrl": [
+      "https://canifa.com/img/1000/1500/resize/8/t/8ta23s002-sg179-1.webp",
+      "https://canifa.com/img/1000/1500/resize/8/t/8ta23s002-sg179-2-thumb.webp",
+      "https://canifa.com/img/1000/1500/resize/8/t/8ta23s002-sg179-3.webp",
+      "https://canifa.com/img/1000/1500/resize/8/t/8ta23s002-sg179-xl-1.webp"
+    ],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "colors": ["Teal"],
+    "category": "craceful-active",
+    "category2": "craceful-active-item"
+  },
+  {
+    "id": "8tp23s007",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/t/8tp23s007-sa422-2-thumb.webp"
+    ],
+    "product_name": "Áo polo wicking active nam anti UV",
+    "price": 499000,
+    "sale": {
+      "isSale": false,
+      "priceSale": 499000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "craceful-active",
+    "category2": "craceful-active-item",
+    "colors": ["Aqua"]
+  },
+  {
+    "id": "5ts23s030",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/5/t/5ts23s030-sa045-1.webp"
+    ],
+    "product_name": "Áo phông unisex người lớn có hình in",
+    "price": 599000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 249000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "craceful-active",
+    "category2": "craceful-trendy",
+    "colors": ["Black"]
+  },
+  {
+    "id": "8bp23s005",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/b/8bp23s005-sa816-1.webp"
+    ],
+    "product_name": "outfit trendy 2023",
+    "price": 599000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 249000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "craceful-active",
+    "category2": "craceful-trendy",
+    "colors": ["Blue"]
+  },
+  {
+    "id": "8ot22w009",
+    "imageUrl": [
+      "https://canifa.com/img/486/733/resize/8/o/8ot22w009-fa093-2-thumb.webp"
+    ],
+    "product_name": "Áo khoác nam in họa tiết",
+    "price": 599000,
+    "sale": {
+      "isSale": true,
+      "priceSale": 249000
+    },
+    "page": 1,
+    "hotDeals": false,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "category": "craceful-active",
+    "category2": "craceful-trendy",
+    "colors": ["Grey"]
+  }
+]

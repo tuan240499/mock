@@ -1,0 +1,99 @@
+.cardContainer {
+  width: 100%;
+  height: auto;
+  position: relative;
+  font-size: 16px;
+  margin-bottom: 20px;
+  padding: 0 32px;
+  &:hover {
+    .addToCart {
+      display: inline-block;
+    }
+  }
+}
+
+.cardImg {
+  width: 100%;
+  height: 70%;
+  cursor: pointer;
+  position: relative;
+}
+
+.img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+ 
+.addToCart {
+  display: none;
+  background-color: rgba(255, 255, 255, 0.8);
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  text-align: center;
+  width: 90%;
+  height: auto;
+  padding: 8px;
+  border-radius: 3px;
+
+}
+
+.sizesBtn {
+  width: 35px;
+  height: 35px;
+  border: none;
+  border-radius: 5px;
+  margin-right: 10px;
+  &:hover {
+    background-color: #333;
+    color: #fff;
+  }
+}
+
+.colorBtnWrapper {
+  margin-top: 20px;
+  padding: 5px;
+}
+
+/* .colorBtn {
+  display: inline-block;
+  margin-right: 20px;
+  width: 50px;
+  height: 50px;
+  padding: 10px;
+  border: none;
+  outline: 1px solid #333;
+  outline-offset: 3px;
+  border-radius: 50%;
+  
+} */
+
+.productName {
+  cursor: pointer;
+  &:hover {
+    color: #da291c
+  }
+}
+
+.salePrice {
+  font-weight: bolder;
+}
+
+.price {
+  text-decoration: line-through;
+}
+
+.discount {
+  color: #da291c;
+  margin-left: 5px;
+}
+
+.onlineExclusive {
+  border: 1px solid #da291c;
+  color: #da291c;
+  display: inline-block;
+  padding: 2px 5px;
+  font-size: 12px;
+}

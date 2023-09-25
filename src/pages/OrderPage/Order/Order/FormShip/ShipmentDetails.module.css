@@ -1,0 +1,25 @@
+.formShip{
+  border: 1px solid #000;
+  padding: 30px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  border: 1px solid #edeeee;
+}
+.labelShipmentDetails {
+  width: 100%;
+
+  }
+  
+  .checkboxShipmentDetails {
+  margin-right: 5px;
+  }
+  .errorShipmentDetails {
+    margin-bottom: 10px;
+  }
+
+  .RadioShipmentDetails{
+    margin-right:20px;
+  }
+  .titleShipmentDetails{
+    font-weight: 500;
+  }
